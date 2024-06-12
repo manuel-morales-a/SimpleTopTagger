@@ -16,3 +16,4 @@ dependencies:
   - pip:
     - jupyter-server-proxy
     - h5py
+    - tables
